@@ -38,4 +38,4 @@ def hadoop(input_folder, output_folder, mapper_fn, reducer_fn):
     save_results_to_output(result)
     create_success_file(output_folder)
 
-#dfsadfasfd
+#dsafadsfdsafddsd
